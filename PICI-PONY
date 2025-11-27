@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PICIPONY — Love, Joy & Magic</title>
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: #f7fbff;
+        font-family: "Poppins", sans-serif;
+        text-align: center;
+        color: #444;
+    }
+
+    .container {
+        max-width: 700px;
+        margin: auto;
+        padding: 40px 20px;
+    }
+
+    .logo {
+        width: 230px;
+        margin-top: 20px;
+        border-radius: 15px;
+    }
+
+    h1 {
+        font-size: 40px;
+        margin-bottom: 10px;
+        font-weight: 700;
+        color: #ff72b6;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 1.6;
+        margin-bottom: 25px;
+        color: #555;
+    }
+
+    .btn {
+        display: inline-block;
+        background: #ff92c8;
+        color: white;
+        padding: 12px 28px;
+        border-radius: 30px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: 0.2s;
+    }
+
+    .btn:hover {
+        background: #ff6db4;
+        transform: translateY(-2px);
+    }
+
+    footer {
+        margin-top: 40px;
+        font-size: 14px;
+        color: #999;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <img class="logo" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QCMRXhpZgAATU0AKgAAAAgABQESAAMAAA..." alt="PiciPony Logo">
+
+    <h1>PICIPONY</h1>
+    <p>
+        PICIPONY is a token born from <b>love</b>, <b>warmth</b>, and <b>pure joy</b>.  
+        A gentle symbol of harmony that reminds us that even the smallest smile  
+        can grow into something magical.  
+        This is more than just a token — it is a <i>feeling</i>, a soft light shared with the world.
+    </p>
+
+    <a class="btn" href="https://twitter.com/" target="_blank">Follow Our Twitter</a>
+
+    <footer>
+        © 2025 PICIPONY — Made with Love & Magic
+    </footer>
+</div>
+
+</body>
+</html>
